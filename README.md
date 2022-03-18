@@ -1,16 +1,21 @@
 ### Hi there 👋
+Mi nombre es Jesus Linares y agradezco que estés aquí!
 
-<!--
-**Serato1/Serato1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador web Full Stack Trainee.
 
-Here are some ideas to get you started:
+🔭 Actualmente estoy trabajando en proyectos por mi cuenta y en colaboracion con otros proyectos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Actualmente estoy aprendiendo Nuevas Tecnologias...
+
+👯Busco colaborar en diferentes proyectos que me reten a seguir mejorando.
+
+📫Cómo comunicarse conmigo: linaresjesus409@gmail.com
+
+🙈Acerca de mí: Disfruto del trabajo constante y de generar nuevas herramientas , me caracterizo por ser una persona alegre, creativa y proactiva a la cual le gusta siempre los desafíos y retos, por lo que siempre trato de mejorar y superarme cada día!
+
+Me encantaria conseguir mi primer trabajo, estoy muy predispuesto a seguir aprendiendo y siempre trato de aportar mis conocimientos para ayudar a quien me necesite.
+
+Conectate conmigo: linkedin.com/in/jesuslinares2011
+
+Certificado Academia Egg Desarrollador web Full Stack
+
