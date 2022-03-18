@@ -15,7 +15,7 @@ Soy un desarrollador web Full Stack Trainee.
 
 Me encantaria conseguir mi primer trabajo, estoy muy predispuesto a seguir aprendiendo y siempre trato de aportar mis conocimientos para ayudar a quien me necesite.
 
-Conectate conmigo: linkedin.com/in/jesuslinares2011
+Conectate conmigo: https://www.linkedin.com/in/jesuslinares2011/
 
 Certificado Academia Egg Desarrollador web Full Stack
 
