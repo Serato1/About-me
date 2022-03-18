@@ -5,8 +5,6 @@ Soy un desarrollador web Full Stack Trainee.
 
 🔭 Actualmente estoy trabajando en proyectos por mi cuenta y en colaboracion con otros proyectos.
 
-🌱 Actualmente estoy aprendiendo Nuevas Tecnologias...
-
 👯Busco colaborar en diferentes proyectos que me reten a seguir mejorando.
 
 📫Cómo comunicarse conmigo: linaresjesus409@gmail.com
