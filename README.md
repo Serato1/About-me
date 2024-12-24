@@ -9,7 +9,7 @@ Soy un desarrollador web Full Stack Trainee.
 
 📫Cómo comunicarse conmigo: linaresjesus409@gmail.com
 
-🙈Acerca de mí: Disfruto del trabajo constante y de generar nuevas herramientas , me caracterizo por ser una persona alegre, creativa y proactiva a la cual le gusta siempre los desafíos y retos, por lo que siempre trato de mejorar y superarme cada día!
+Acerca de mí: Disfruto del trabajo constante y de generar nuevas herramientas , me caracterizo por ser una persona alegre, creativa y proactiva a la cual le gusta siempre los desafíos y retos, por lo que siempre trato de mejorar y superarme cada día!
 
 Me encantaria conseguir mi primer trabajo, estoy muy predispuesto a seguir aprendiendo y siempre trato de aportar mis conocimientos para ayudar a quien me necesite.
 
